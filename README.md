@@ -18,7 +18,7 @@ Console chess that implements logic for the following pieces: king, knight, bish
 
 <br />
 
-## 🤠 Sacaban
+## 🤠 Sokoban
 
 The legendary game Sokoban, which could still be played on a push-button phone in the early 2000s. The main goal of the game is for the character to place the boxes on the red circles. Come in and get nostalgic 😉
 
