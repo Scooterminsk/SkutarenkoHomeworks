@@ -120,7 +120,9 @@ struct TicTacToeField {
 var tic = TicTacToeField()
 tic.printField()
 tic[1, 1] = CellField.cross
+tic[1, 2] = CellField.toe
 tic[2, 2] = CellField.cross
+tic[1, 3] = CellField.toe
 tic[3, 3] = CellField.cross
 tic[1, 1] = CellField.cross
 tic[1, 2] = CellField.cross
